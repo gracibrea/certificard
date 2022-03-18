@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-/*font-family: 'Roboto', sans-serif;*/
 
 body {
     background: linear-gradient(236.85deg, #041832 27.26%, #3468A7 96.03%);
@@ -21,9 +19,7 @@ body {
     justify-content: space-between;
 }
 .perfil {
-    display: flex;
-    
-    
+    display: flex;    
 }
 .perfil-foto {
     border-radius: 460px;
